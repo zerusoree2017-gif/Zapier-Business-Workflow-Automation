@@ -58,7 +58,7 @@ images/capture-automate-new-business-leads.png
 **Live Flow:**
 **Lead Event → Condition → Gmail Notification → Team Follow-Up**
 **Shows:** Automated alerts that help teams respond quickly.
-![Automated Notifications & Follow-Up Workflow](./images/image-06.webp)
+![Instant Lead Routing & Follow-Up Notifications](images/Instant%20Lead%20Routing%20%26%20Follow-Up%20Notifications.png)
 
 ## 💼 Business Value
 This automation helps businesses:
