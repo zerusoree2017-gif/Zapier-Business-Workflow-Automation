@@ -52,7 +52,7 @@ The workflow uses Zapier's trigger-and-action model to connect business apps and
 **Live Flow:**
 **Qualified Lead → Google Sheets → HubSpot CRM → Updated Record**
 **Shows:** Automated lead synchronization and centralized tracking.
-![Automated CRM & Google Sheets Synchronization](./images/automated-crm-google-sheets-synchronization.png)
+![Automated CRM & Google Sheets Synchronization](images/automated-crm-google-sheets-synchronization.png)
 
 ### 6️⃣ Automated Notifications & Follow-Up Workflow
 **Live Flow:**
