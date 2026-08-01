@@ -52,7 +52,7 @@ The workflow uses Zapier's trigger-and-action model to connect business apps and
 **Live Flow:**  
 **New Lead → Validate → Filter → Formatter → Clean Data**
 **Shows:** Practical lead validation, filtering, and data formatting.
-![Smart Lead Filtering & Data Formatting](https://github.com/zerusoree2017-gif/CRM-Lead-Management-Dashboard/blob/main/images/Smart%20Lead%20Filtering%20%26%20Data%20Formatting.png)
+![Smart Lead Filtering & Data Formatting](Smart%20Lead%20Filtering%20%26%20Data%20Formatting.png)
 
 ### 5️⃣ CRM & Google Sheets Lead Synchronization
 **Live Flow:**
