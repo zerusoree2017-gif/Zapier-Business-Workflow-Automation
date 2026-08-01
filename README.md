@@ -42,21 +42,17 @@ The workflow uses Zapier's trigger-and-action model to connect business apps and
 **Shows:** Automated CRM lead follow-up and timely team notifications.
 ![CRM Lead Follow-Up Workflow with Zapier Integration](CRM%20Lead%20Follow-Up%20Workflow%20with%20Zapier%20Integration%20n.png)
 
----
-
 ### 3️⃣ Lead Capture & Smart Workflow Automation
 **Live Flow:**
 **Lead Form → Zapier Trigger → Lead Data → Automation**
 **Shows:** New business leads entering the automation workflow automatically.
 ![Capture & Automate New Business Leads](Capture%20%26%20Automate%20New%20Business%20Leads.png)
 
----
-
 ### 4️⃣ Lead Filtering, Validation & Data Formatting
 **Live Flow:**  
 **New Lead → Validate → Filter → Formatter → Clean Data**
 **Shows:** Practical lead validation, filtering, and data formatting.
-![Smart Lead Filtering & Data Formatting](PASTE-COPIED-IMAGE-ADDRESS-HERE)
+![Smart Lead Filtering & Data Formatting](https://github.com/zerusoree2017-gif/CRM-Lead-Management-Dashboard/blob/main/images/Smart%20Lead%20Filtering%20%26%20Data%20Formatting.png)
 
 ### 5️⃣ CRM & Google Sheets Lead Synchronization
 **Live Flow:**
