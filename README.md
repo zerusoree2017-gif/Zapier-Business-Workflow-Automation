@@ -64,7 +64,7 @@ The workflow uses Zapier's trigger-and-action model to connect business apps and
 **Live Flow:**
 **Lead Event → Condition → Gmail Notification → Team Follow-Up**
 **Shows:** Automated notifications and follow-up actions that help teams respond faster.
-![Automated Notifications & Follow-Up Workflow](./images/06-automated-notifications-follow-up.png)
+![Instant Lead Routing & Follow-Up Notifications](Instant%20Lead%20Routing%20%26%20Follow-Up%20Notifications.png)
 
 ## 💼 Business Value
 This automation helps businesses:
