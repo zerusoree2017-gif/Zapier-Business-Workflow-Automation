@@ -40,7 +40,7 @@ The workflow uses Zapier's trigger-and-action model to connect business apps and
 **Live Flow:**
 **Lead Form → Zapier Trigger → Lead Data → Automation**
 **Shows:** New leads entering the workflow automatically.
-![Lead Capture & Smart Workflow Automation](./images/image-03.webp)
+![Capture & Automate New Business Leads](./images/capture-automate-new-business-leads.png)
 
 ### 4️⃣ Lead Filtering, Validation & Data Formatting
 **Live Flow:**
