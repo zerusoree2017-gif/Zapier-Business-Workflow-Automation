@@ -37,13 +37,10 @@ The workflow uses Zapier's trigger-and-action model to connect business apps and
 ---
 
 ### 2️⃣ CRM Lead Follow-Up Workflow with Zapier Integration
-
 **Live Flow:**
 **New Lead → CRM → Follow-Up Logic → Gmail / Notification**
-
 **Shows:** Automated CRM lead follow-up and timely team notifications.
-
-![CRM Lead Follow-Up Workflow with Zapier Integration](./images/02-crm-lead-follow-up-zapier.png)
+![CRM Lead Follow-Up Workflow with Zapier Integration](CRM%20Lead%20Follow-Up%20Workflow%20with%20Zapier%20Integration%20n.png)
 
 ---
 
