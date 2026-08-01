@@ -40,7 +40,7 @@ images/capture-automate-new-business-leads.png
 **Live Flow:**
 **Lead Form → Zapier Trigger → Lead Data → Automation**
 **Shows:** New leads entering the workflow automatically.
-![Capture & Automate New Business Leads](./images/capture-automate-new-business-leads.png)
+![Capture & Automate New Business Leads](images/03-lead-capture.png)
 
 ### 4️⃣ Lead Filtering, Validation & Data Formatting
 **Live Flow:**
