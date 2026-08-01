@@ -28,14 +28,11 @@ The workflow uses Zapier's trigger-and-action model to connect business apps and
 
 # 📸 Live Workflow Demonstration
 
-### 1️⃣ Zapier Business Workflow & CRM Automation ⭐️
-
+### 1️⃣ Zapier Business Workflow & CRM Automation 
 **Live Flow:**
 **Trigger → Zapier → Business Logic → CRM Action → Automated Result**
-
 **Shows:** A connected business workflow that automates CRM tasks and reduces repetitive manual work.
-
-![Zapier Business Workflow & CRM Automation](./images/01-zapier-business-crm.png)
+![Zapier Business Workflow & CRM Automation](Zapier%20Business%20Workflow%20%26%20CRM%20Automation.png)
 
 ---
 
