@@ -27,38 +27,60 @@ This project demonstrates a practical **Zapier Business Workflow Automation** sy
 The workflow uses Zapier's trigger-and-action model to connect business apps and automate repetitive processes.
 
 # 📸 Live Workflow Demonstration
-### 1️⃣ Zapier Business Workflow & CRM Automation
+
+### 1️⃣ Zapier Business Workflow & CRM Automation ⭐️
+
 **Live Flow:**
 **Trigger → Zapier → Business Logic → CRM Action → Automated Result**
-**Shows:** Connected business applications and automated CRM processes.
-![Zapier Business Workflow & CRM Automation](./images/image-01.webp)
+
+**Shows:** A connected business workflow that automates CRM tasks and reduces repetitive manual work.
+
+![Zapier Business Workflow & CRM Automation](./images/01-zapier-business-crm.png)
+
+---
 
 ### 2️⃣ CRM Lead Follow-Up Workflow with Zapier Integration
-images/capture-automate-new-business-leads.png
+
+**Live Flow:**
+**New Lead → CRM → Follow-Up Logic → Gmail / Notification**
+
+**Shows:** Automated CRM lead follow-up and timely team notifications.
+
+![CRM Lead Follow-Up Workflow with Zapier Integration](./images/02-crm-lead-follow-up-zapier.png)
+
+---
 
 ### 3️⃣ Lead Capture & Smart Workflow Automation
+
 **Live Flow:**
 **Lead Form → Zapier Trigger → Lead Data → Automation**
-**Shows:** New leads entering the workflow automatically.
-![Capture & Automate New Business Leads](images/03-lead-capture.png)
+
+**Shows:** New business leads entering the automation workflow automatically.
+
+![Lead Capture & Smart Workflow Automation](./images/03-lead-capture-smart-automation.png)
+
+---
 
 ### 4️⃣ Lead Filtering, Validation & Data Formatting
+
 **Live Flow:**
 **New Lead → Validate → Filter → Formatter → Clean Data**
-**Shows:** Practical data validation, filtering, and standardization.
-![Lead Filtering, Validation & Data Formatting](./images/image-04.webp)
+
+**Shows:** Lead validation, filtering, and data formatting before the information moves forward.
+
+![Lead Filtering, Validation & Data Formatting](./images/04-lead-filtering-validation-formatting.png)
 
 ### 5️⃣ CRM & Google Sheets Lead Synchronization
 **Live Flow:**
 **Qualified Lead → Google Sheets → HubSpot CRM → Updated Record**
-**Shows:** Automated lead synchronization and centralized tracking.
-![Automated CRM & Google Sheets Synchronization](images/automated-crm-google-sheets-synchronization.png)
+**Shows:** Automated synchronization between lead tracking in Google Sheets and CRM management.
+![CRM & Google Sheets Lead Synchronization](./images/05-crm-google-sheets-synchronization.png)
 
 ### 6️⃣ Automated Notifications & Follow-Up Workflow
 **Live Flow:**
 **Lead Event → Condition → Gmail Notification → Team Follow-Up**
-**Shows:** Automated alerts that help teams respond quickly.
-![Instant Lead Routing & Follow-Up Notifications](images/Instant%20Lead%20Routing%20%26%20Follow-Up%20Notifications.png)
+**Shows:** Automated notifications and follow-up actions that help teams respond faster.
+![Automated Notifications & Follow-Up Workflow](./images/06-automated-notifications-follow-up.png)
 
 ## 💼 Business Value
 This automation helps businesses:
