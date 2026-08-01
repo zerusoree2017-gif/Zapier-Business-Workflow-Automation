@@ -27,14 +27,11 @@ This project demonstrates a practical **Zapier Business Workflow Automation** sy
 The workflow uses Zapier's trigger-and-action model to connect business apps and automate repetitive processes.
 
 # 📸 Live Workflow Demonstration
-
 ### 1️⃣ Zapier Business Workflow & CRM Automation 
 **Live Flow:**
 **Trigger → Zapier → Business Logic → CRM Action → Automated Result**
 **Shows:** A connected business workflow that automates CRM tasks and reduces repetitive manual work.
 ![Zapier Business Workflow & CRM Automation](Zapier%20Business%20Workflow%20%26%20CRM%20Automation.png)
-
----
 
 ### 2️⃣ CRM Lead Follow-Up Workflow with Zapier Integration
 **Live Flow:**
@@ -104,12 +101,13 @@ I can help turn repetitive processes into **clean, practical, and reliable autom
 ## 👨‍💻 About Me
 **Zerihun Abera**
 **CRM & Lead Automation Specialist**
-
 **Google Sheets | HubSpot | Zapier | n8n | Google Workspace | CRM & Workflow Automation**
 I build practical automation systems that connect business tools, reduce repetitive work, organize lead data, and improve workflow efficiency.
 
 ### 🔗 Profiles
-
-**Upwork:** [Add Your Upwork Profile Link]
+**Upwork**
+https://www.upwork.com/freelancers/~010472b5935fc59690
+**Fiverr**
+https://www.fiverr.com/zerihunabera413
 
 **Fiverr:** [Add Your Fiverr Profile Link]
