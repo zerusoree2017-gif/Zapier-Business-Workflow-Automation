@@ -28,6 +28,7 @@ This project demonstrates a practical **Zapier Business Workflow Automation** sy
 ## 🔄 Automation Workflow
 
 **Lead Capture → Validation → Formatting → CRM/Sheets Sync → Lead Routing → Notifications → Follow-Up**
+
 The workflow uses Zapier's trigger-and-action model to connect business apps and automate repetitive processes.
 
 # 📸 Live Workflow Demonstration
