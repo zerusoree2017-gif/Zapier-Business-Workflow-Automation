@@ -96,15 +96,15 @@ The workflow can be adapted to different lead sources, CRM systems, spreadsheet 
 
 # 📸 Live Workflow Demonstration
 
-## 1️⃣ Zapier Business Workflow & CRM Automation ⭐️
+## 1️⃣ Automated Notifications & Follow-Up Workflow
 
 **Live Flow:**
 
-**Trigger → Zapier → Business Logic → CRM Action → Automated Result**
+**Lead Event → Condition → Gmail Notification → Team Follow-Up**
 
-**Shows:** A connected Zapier workflow coordinating multiple business applications and automating CRM-related tasks.
+**Shows:** Automated alerts and follow-up actions that help teams respond quickly when important lead events occur.
 
-![Zapier Business Workflow & CRM Automation](Zapier%20Business%20Workflow%20%26%20CRM%20Automation.png)
+![Automated Notifications & Follow-Up Workflow](Instant%20Lead%20Routing%20%26%20Follow-Up%20Notifications.png)
 
 ---
 
@@ -158,15 +158,15 @@ Zapier currently supports Google Sheets workflows that can create, update, find,
 
 ---
 
-## 6️⃣ Automated Notifications & Follow-Up Workflow
+## 6️⃣ Zapier Business Workflow & CRM Automation ⭐️
 
 **Live Flow:**
 
-**Lead Event → Condition → Gmail Notification → Team Follow-Up**
+**Trigger → Zapier → Business Logic → CRM Action → Automated Result**
 
-**Shows:** Automated alerts and follow-up actions that help teams respond quickly when important lead events occur.
+**Shows:** A connected Zapier workflow coordinating multiple business applications and automating CRM-related tasks.
 
-![Automated Notifications & Follow-Up Workflow](Instant%20Lead%20Routing%20%26%20Follow-Up%20Notifications.png)
+![Zapier Business Workflow & CRM Automation](Zapier%20Business%20Workflow%20%26%20CRM%20Automation.png)
 
 ---
 
